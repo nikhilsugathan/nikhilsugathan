@@ -11,8 +11,7 @@ I specialize in building **reliable, automated, and observable infrastructure** 
 - **Automation:** PowerShell, Python (ops automation & tooling)
 - **Monitoring & Observability:** CheckMK, Grafana, Prometheus, Splunk
 - **Incident Management:** Major Incident Command, RCA, SLA/SLO, MTTR reduction
-- **Cloud (Ops level):** AWS, Azure, GCP (hybrid & migration support)
-
+- **Cloud (Basic exposure):** AWS, Azure (hybrid infrastructure support)
 ---
 
 ## 📌 What You'll Find Here
